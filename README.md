@@ -11,3 +11,5 @@ IBMQ.save_account('Here you are supposed to enter your unique token number gener
 IBMQ.load_account()
 
 ## Your account would be now setup and you are all set to go for Quantum Computing
+
+## This folder contains my practice notebook while trying to learn Quantum Computing
